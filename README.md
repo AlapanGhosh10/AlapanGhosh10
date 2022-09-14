@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlapanGhosh10
+- Hi, I’m @AlapanGhosh10
 
 <!---
 AlapanGhosh10/AlapanGhosh10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
