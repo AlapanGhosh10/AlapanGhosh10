@@ -28,7 +28,7 @@ I'm an indie student trying to build my version of the digital world one step at
 <br />
 
 ---
-###📊 Github Profile Stats
+### 📊 Github Profile Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p> 
