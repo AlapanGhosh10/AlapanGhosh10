@@ -43,7 +43,7 @@ I am a computer application student trying to build my version of the digital wo
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alapanghosh10&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alapanghosh10&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alapanghosh10&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alapanghosh10&theme=tokyonight" />
 </p>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p> 
