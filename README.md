@@ -46,12 +46,6 @@ I am a computer application student trying to build my version of the digital wo
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alapanghosh10&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alapanghosh10&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alapanghosh10&theme=tokyonight" />
-</p>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<p> 
-  <br/>
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AlapanGhosh10's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alapanghosh10&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> -->
-  <br/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alapanghosh10&theme=tokyonight" />
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
