@@ -10,6 +10,7 @@ I am a computer application student trying to build my version of the digital wo
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AlapanGhosh10?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=alapanghosh10&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
 ---
 
 ## ⚡ Technologies
