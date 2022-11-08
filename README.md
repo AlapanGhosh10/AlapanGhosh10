@@ -9,6 +9,7 @@ I am a computer application student trying to build my version of the digital wo
       <a href="https://github.com/AlapanGhosh10?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AlapanGhosh10?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+<img src="https://activity-graph.herokuapp.com/graph?username=alapanghosh10&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 ---
 ## ⚡ Technologies
 
@@ -46,7 +47,7 @@ I am a computer application student trying to build my version of the digital wo
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p> 
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AlapanGhosh10's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlapanGhosh10&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AlapanGhosh10's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alapanghosh10&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
