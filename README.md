@@ -1,5 +1,6 @@
 - Hi, I’m @AlapanGhosh10
-- I am interested in Web Development and Blockchain
+- Just trying out a bunch of things
+- XD
 
 <!---
 AlapanGhosh10/AlapanGhosh10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
