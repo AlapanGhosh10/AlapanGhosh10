@@ -26,8 +26,9 @@ I'm an indie student trying to build my version of the digital world one step at
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-<br />
-### 📊 Github Profile Stats
+
+---
+###📊 Github Profile Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p> 
