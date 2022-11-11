@@ -48,6 +48,3 @@ I am a computer application student trying to build my version of the digital wo
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alapanghosh10&theme=tokyonight"/>
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alapanghosh10&theme=tokyonight"/>
 </p>
-<p>
-	<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
